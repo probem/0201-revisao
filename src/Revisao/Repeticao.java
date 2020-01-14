@@ -3,12 +3,13 @@ package Revisao;
 public class Repeticao {
     public static void main(String[] args) {
         //Criação de uma lista que contém 4 valores
-        String[] saladaFrutas = new String[5];
+        String[] saladaFrutas = new String[6];
         saladaFrutas[0] = "Banana";
         saladaFrutas[1] = "Kiwi";
         saladaFrutas[2] = "Morango";
         saladaFrutas[3] = "Atemoia";
         saladaFrutas[4] = "Caramelo";
+        saladaFrutas[5] = "Uva";
 
         //Percorrer a lista e mostrar a quantidade de itens através do contador
         int contador = 0;
